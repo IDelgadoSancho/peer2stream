@@ -18,6 +18,9 @@ Peer2Stream is a web application developed to allow users to discover, watch, an
 
 The project was developed in collaboration with **Alejandro Cabrera Carrasco** and myself, **Ismael Delgado Sancho**.
 
+https://github.com/Alexasto12
+https://github.com/IDelgadoSancho
+
 ---
 
 ## 💼 My Contribution
